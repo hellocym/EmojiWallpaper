@@ -24,7 +24,7 @@ body {
 }
 
 .emoji {
-    font-size: 2vh;
+    font-size: 2vmax;
     font-family: 'AppleColorEmoji', 'Segoe UI Emoji', 'Noto Color Emoji', 'Android Emoji', 'EmojiSymbols', sans-serif;
     transition: transform 0.3s;
 }
